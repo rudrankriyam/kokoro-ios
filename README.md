@@ -1,4 +1,6 @@
 # Kokoro TTS for Swift
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/kokoro-ios&type=Date)](https://star-history.com/#rudrankriyam/kokoro-ios&Date)
+
 
 Experimental implementation of Kokoro TTS for macOS and iOS devices using MLX Swift and eSpeak NG.
 
