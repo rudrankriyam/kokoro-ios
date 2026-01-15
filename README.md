@@ -1,5 +1,4 @@
 # Kokoro TTS for Swift
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/kokoro-ios&type=Date)](https://star-history.com/#rudrankriyam/kokoro-ios&Date)
 
 
 Experimental implementation of Kokoro TTS for macOS and iOS devices using MLX Swift and eSpeak NG.
@@ -23,3 +22,5 @@ Follow these steps to get the sample application running on your iOS device:
 7. Enter the text to input field and click "Say something". Wait for a while and the audio should be played out loud.
 
 Note that if you want to run the app on a Mac, you can't use iOS emulator because it doesn't support Metal. Just use the default macOS target. For more information, see [MLX Swift documentation](https://swiftpackageindex.com/ml-explore/mlx-swift/main/documentation/mlx/running-on-ios).
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/kokoro-ios&type=Date)](https://star-history.com/#rudrankriyam/kokoro-ios&Date)
